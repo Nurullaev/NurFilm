@@ -6,6 +6,10 @@
 
 <!-- новые версии добавляются сюда, сверху -->
 
+## [1.39] — 2026-10-04
+
+- В карточке фильма за постером и названием — кадр из фильма
+
 ## [1.38] — 2026-10-02
 
 - Вместо чужой серой заглушки «нет постера» теперь своя
@@ -196,6 +200,7 @@
 ### 1.0
 - Первая версия: каталог, разделы, поиск, фильтр, страница фильма, похожее, плеер
 
+[1.39]: https://github.com/Nurullaev/NurFilm/releases/tag/v1.39
 [1.38]: https://github.com/Nurullaev/NurFilm/releases/tag/v1.38
 [1.37]: https://github.com/Nurullaev/NurFilm/releases/tag/v1.37
 [1.36]: https://github.com/Nurullaev/NurFilm/releases/tag/v1.36
